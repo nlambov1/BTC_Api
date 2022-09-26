@@ -1,0 +1,10 @@
+C:\Users\Niko\source\repos\BTC_Api\BTC_Api\bin\Debug\BTC_Api.exe.config
+C:\Users\Niko\source\repos\BTC_Api\BTC_Api\bin\Debug\BTC_Api.exe
+C:\Users\Niko\source\repos\BTC_Api\BTC_Api\bin\Debug\BTC_Api.pdb
+C:\Users\Niko\source\repos\BTC_Api\BTC_Api\obj\Debug\BTC_Api.csproj.AssemblyReference.cache
+C:\Users\Niko\source\repos\BTC_Api\BTC_Api\obj\Debug\BTC_Api.csproj.CoreCompileInputs.cache
+C:\Users\Niko\source\repos\BTC_Api\BTC_Api\obj\Debug\BTC_Api.exe
+C:\Users\Niko\source\repos\BTC_Api\BTC_Api\obj\Debug\BTC_Api.pdb
+C:\Users\Niko\source\repos\BTC_Api\BTC_Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niko\source\repos\BTC_Api\BTC_Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Niko\source\repos\BTC_Api\BTC_Api\obj\Debug\BTC_Api.csproj.CopyComplete
